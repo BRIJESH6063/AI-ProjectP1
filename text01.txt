@@ -1,0 +1,3 @@
+first change made in the text file
+
+second change done in order to determine difference bw work and stage area.
